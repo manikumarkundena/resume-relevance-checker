@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Live Demo
-**[➡️ Click Here to View the Deployed Application](https://your-streamlit-app-url.streamlit.app/)**
+**[➡️ Click Here to View the Deployed Application](https://resume-relevance-checker-luwarqewgn82inducvzysq.streamlit.app/)**
 **
 
 ### 🎬 Video Presentation
