@@ -70,3 +70,4 @@ The entire presentation, including the video voiceover and slide generation, was
 * **Contact:** [manikumarkundena@gmail.com](mailto:manikumarkundena@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/manikumar-k-2a637b378](https://www.linkedin.com/in/manikumar-k-2a637b378)
 * **Portfolio:** [https://fg5fqm.csb.app/](https://fg5fqm.csb.app/)
+* **Resume:** [https://drive.google.com/file/d/1H_2hDH5Qy124Q2ikroX3i1B4tbaJz3bi/view?usp=sharing]
